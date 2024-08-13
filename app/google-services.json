@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55413530277",
+    "project_id": "dipaul-666",
+    "storage_bucket": "dipaul-666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55413530277:android:ec719c815e55f7bd93f74c",
+        "android_client_info": {
+          "package_name": "com.example.dipaul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHr_zePLffyBbG4WaxkaPuRCTIyKSRCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
